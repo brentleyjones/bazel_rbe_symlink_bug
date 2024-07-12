@@ -17,15 +17,6 @@
         "revision" : "a74f978733bdaf982758bfa23d70a189f4b4c1b6",
         "version" : "1.2.3"
       }
-    },
-    {
-      "identity" : "pinremoteimage",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/pinterest/PINRemoteImage",
-      "state" : {
-        "revision" : "37022d0fb9359ce33fa06028d03382c8b9957c62",
-        "version" : "3.0.4"
-      }
     }
   ],
   "version" : 2
